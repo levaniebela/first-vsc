@@ -130,6 +130,7 @@ button{
     }
     .header-absolute h1{
         font-size: x-large;
+        color: #551a8b;
     }
     .header-absolute a{
         font-size: small;
